@@ -1,0 +1,3 @@
+# Graphics Algorithm Visualizer - Python Requirements
+# Note: Tkinter is bundled with standard Python 3 distributions.
+# No external third-party packages are required.

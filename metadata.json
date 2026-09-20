@@ -1,0 +1,6 @@
+{
+  "name": "Graphics Algorithm Visualizer",
+  "description": "An interactive educational visualizer for DDA, Bresenham, Midpoint Circle, and Cohen-Sutherland line clipping algorithms with step-by-step calculations and coordinate grids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
